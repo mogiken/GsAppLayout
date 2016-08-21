@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-19c3076377104d13419b521cbda9cfe53b2520dd.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-dfa33785e5e3531af1aaa905c7131454cf3ede0f.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-cd99978021075a5e161a87c375447a4beb472b5f.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-b388e9edfb50de5ab46b5c816bf81261caa518a3.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-d5111476de9c6833fc5e0470af60afae228288b8.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-dcfc9821563dc4d8cd2419d01eb6b1353f9e0aa1.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-2a5ccb3d477383ff7602b25df53f6edd728ac66c.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-5c6f5ffe73b4e1dd3c3110aabff0c38e2854555d.jar" />
+    </item>
+    <item
+        jar="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/mogi/Documents/業務/DH/GS/GitHub/GsAppLayout/app/build/intermediates/pre-dexed/debug/classes-9fdc71c9fa740c648bf2b012b1b7a6e579789d56.jar" />
+    </item>
+
+</items>
